@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x7b80;&#x5355;&#x4fe1;&#x606f;&#x91c7;&#x96c6;-DEMO/ViewController.m"
+            timestampString = "477665976.794868"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "-touchIDInformation"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x7b80;&#x5355;&#x4fe1;&#x606f;&#x91c7;&#x96c6;-DEMO/ViewController.m"
+            timestampString = "477665976.794868"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "-deviceInformation"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x7b80;&#x5355;&#x4fe1;&#x606f;&#x91c7;&#x96c6;-DEMO/ViewController.m"
+            timestampString = "477667560.078639"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "250"
+            endingLineNumber = "250"
+            landmarkName = "-touchIDInformation"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__36-[ViewController touchIDInformation]_block_invoke"
+                  moduleName = "&#x7b80;&#x5355;&#x4fe1;&#x606f;&#x91c7;&#x96c6;-DEMO"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yinyi/Desktop/IOS/UI%E8%87%AA%E5%AD%A6/%E7%AE%80%E5%8D%95%E4%BF%A1%E6%81%AF%E9%87%87%E9%9B%86-DEMO/%E7%AE%80%E5%8D%95%E4%BF%A1%E6%81%AF%E9%87%87%E9%9B%86-DEMO/ViewController.m"
+                  timestampString = "477667890.601921"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "250"
+                  endingLineNumber = "250"
+                  offsetFromSymbolStart = "980">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__36-[ViewController touchIDInformation]_block_invoke133"
+                  moduleName = "&#x7b80;&#x5355;&#x4fe1;&#x606f;&#x91c7;&#x96c6;-DEMO"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yinyi/Desktop/IOS/UI%E8%87%AA%E5%AD%A6/%E7%AE%80%E5%8D%95%E4%BF%A1%E6%81%AF%E9%87%87%E9%9B%86-DEMO/%E7%AE%80%E5%8D%95%E4%BF%A1%E6%81%AF%E9%87%87%E9%9B%86-DEMO/ViewController.m"
+                  timestampString = "477667890.602191"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "250"
+                  endingLineNumber = "250"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x7b80;&#x5355;&#x4fe1;&#x606f;&#x91c7;&#x96c6;-DEMO/ViewController.m"
+            timestampString = "477667560.078639"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
+            landmarkName = "-touchIDInformation"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__36-[ViewController touchIDInformation]_block_invoke"
+                  moduleName = "&#x7b80;&#x5355;&#x4fe1;&#x606f;&#x91c7;&#x96c6;-DEMO"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yinyi/Desktop/IOS/UI%E8%87%AA%E5%AD%A6/%E7%AE%80%E5%8D%95%E4%BF%A1%E6%81%AF%E9%87%87%E9%9B%86-DEMO/%E7%AE%80%E5%8D%95%E4%BF%A1%E6%81%AF%E9%87%87%E9%9B%86-DEMO/ViewController.m"
+                  timestampString = "477667890.603779"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__36-[ViewController touchIDInformation]_block_invoke115"
+                  moduleName = "&#x7b80;&#x5355;&#x4fe1;&#x606f;&#x91c7;&#x96c6;-DEMO"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yinyi/Desktop/IOS/UI%E8%87%AA%E5%AD%A6/%E7%AE%80%E5%8D%95%E4%BF%A1%E6%81%AF%E9%87%87%E9%9B%86-DEMO/%E7%AE%80%E5%8D%95%E4%BF%A1%E6%81%AF%E9%87%87%E9%9B%86-DEMO/ViewController.m"
+                  timestampString = "477667890.604046"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
